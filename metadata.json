@@ -1,0 +1,8 @@
+{
+  "name": "신비한 세계의 모험",
+  "description": "30명의 인공지능 캐릭터, 보조 캐릭터, 아이템 교환, 의문의 성 탐험 및 레벨업 시스템이 포함된 2D 어드벤처 RPG 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
